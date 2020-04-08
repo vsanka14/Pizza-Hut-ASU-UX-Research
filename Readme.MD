@@ -11,9 +11,12 @@ Our UX research included the following tasks:
 5. Testing
 6. Conclusion
 
+[Demo Link](https://vimeo.com/405301462)
+
 Team members:
 
 1. Sam Robertson
 2. Logan Cousins
 3. Annie Hull
 4. Vasisht Sankaranarayanan
+
